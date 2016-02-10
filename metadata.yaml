@@ -1,0 +1,23 @@
+_repo: The-Journal-of-the-Proceedings-of-the-Linnean-Society-Vol-4_46491
+covers:
+- cover_type: archival
+  image_path: 46491/46491-h/images/cover.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_issued: '2014-08-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46491'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: The Journal of the Proceedings of the Linnean Society - Vol. 4
+url: http://www.gutenberg.org/ebooks/46491
